@@ -1,8 +1,8 @@
 const posts = [
     {
       id: 1,
-      title: "Titolo del Post",
-      image: 'image1.jpg',
+      title: "Titolo del Post 1",
+      image: 'blog (2).png',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["html", "css"],
@@ -10,7 +10,7 @@ const posts = [
     },
     {
       id: 2,
-      title: "Titolo del Post",
+      title: "Titolo del Post 2",
       image: '',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
@@ -19,7 +19,7 @@ const posts = [
     },
     {
       id: 3,
-      title: "Titolo del Post",
+      title: "Titolo del Post 3",
       image: '',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
@@ -28,8 +28,8 @@ const posts = [
     },
     {
       id: 4,
-      title: "Titolo del Post",
-      image: 'image3.jpg',
+      title: "Titolo del Post 4",
+      image: '339084.jpg',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["html"],
